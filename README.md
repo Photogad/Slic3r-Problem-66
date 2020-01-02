@@ -2,11 +2,13 @@
 
 Does your 3D prints suffer from the dreaded **Problem 66**, aka the "Inner Floor Outer Perimeter issue"? Not sure? Then print this quick test object and find out!
 
-**Download on Github:
+**Download on Github:**
+
 https://github.com/Photogad/Slic3r-Problem-66/raw/master/InnerFloorOuterPerimeter.stl
 
-**Download on Thingiverse:
-https://www.thingiverse.com/thing:4079232
+**Download on Thingiverse:**
+
+https://www.thingiverse.com/thing:4079232 
 
 
 This issue causes the outer perimeters, or the outer surface of your prints to have lines or markings along the sides of the print that coincide with having a solid inner floor or inner ceiling in your print. See the .STL model for an example of the inner floor on the top half and the inner ceiling on the bottom half.
