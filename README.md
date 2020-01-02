@@ -11,26 +11,29 @@ We don't know what causes this issue, but here's what we know so far!
 
 
 **Who has this issue:**
-* It seems to be a slicing software issue, and not an actual printer problem.
-* People using Simplify 3D for slicing do not seem to have this issue.
-* Most of the people that have this issue are using Slic3r or Prusa Slicer.
-* However, not everyone that uses Slic3r or Prusa Slicer have this problem.
+* It might be a slicing software issue, and not an actual printer problem.
+* Most of the people that have this issue are using Slic3r (Prusa Slicer), however Cura and Simplify3D can also be affected.
+* Generally, people with this problem who try both Simplify3D and Slic3r, will find that the problem is more visible with prints made on Slic3r.
+* Not everyone has this problem.
 
 **What affects this issue?**
 * Printing slower does not seem to fix the problem.
 * Printing temperature does not matter.
-* This is not a material-specific issue.
+* This is not a material-specific issue, both PLA and PETG are affected.
+* Darker color plastics will make this problem more visible.
 * Changing the amount of perimeters does not have any effect.
-* Infill Density does not have any effect.
+* Infill density does not have any effect.
 * Layer height change does not fix the issue, however the issue is not as visible at smaller layer height settings.
 * Turning the print fan off does not fix the issue.
+* Printing external perimeters first does not fix it.
+* Printing infill before perimeters does not fix it.
 
 
-**Can you help us solve the issue? Can you help us find the "magic bullet" Slic3r setting that will stop this from happening? Be sure to comment in the "ISSUES" section!**
+**Can you help us solve the issue? Can you help us find the "magic bullet" Slic3r setting that will stop this from happening? Be sure to comment in the "ISSUES" section, in the megathread!**
 
 
 
-Last Updated: 1/1/2020
+Last Updated: 1/1/2020 11:29 PM
 
 
 
