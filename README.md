@@ -1,6 +1,3 @@
-# Slic3r-Problem-66
-Committed to solving Slic3r Problem 66
-
 ![Image of Problem 66](https://raw.githubusercontent.com/photog0411/Slic3r-Problem-66/master/Cover_small.jpg)
 
 Does your 3D prints suffer from the dreaded **Problem 66**, aka the "Inner Floor Outer Perimeter issue"? Not sure? Then print this quick test object and find out!
